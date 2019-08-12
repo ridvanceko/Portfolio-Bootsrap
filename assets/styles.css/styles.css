@@ -1,5 +1,5 @@
 /* So padding and border no longer increase width. */
-* {
+ *{
   box-sizing: border-box;
 }
 
@@ -247,3 +247,14 @@ footer {
   margin-bottom: 5px;
   
 }
+
+@media screen and (max-width: 480px)  {}
+/* For mobile phones: */
+
+@media screen and (max-width: 768px)  {}
+    /* For tablets: */
+     
+  
+ 
+   
+
